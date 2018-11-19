@@ -1,0 +1,11 @@
+﻿Build started 20-Sep-18 8:41:38 PM.
+     1>Project "E:\Courses\11th\Computer Graphics\Graphics Lab\Code\ProjectBackup\ProjectBackup\ProjectBackup.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Courses\11th\Computer Graphics\Graphics Lab\Code\ProjectBackup\Debug\ProjectBackup.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Courses\11th\Computer Graphics\Graphics Lab\Code\ProjectBackup\Debug\ProjectBackup.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Courses\11th\Computer Graphics\Graphics Lab\Code\ProjectBackup\Debug\ProjectBackup.lib" /MACHINE:X86 Debug\Source.obj
+         LINK : E:\Courses\11th\Computer Graphics\Graphics Lab\Code\ProjectBackup\Debug\ProjectBackup.exe not found or not built by the last incremental link; performing full link
+         ProjectBackup.vcxproj -> E:\Courses\11th\Computer Graphics\Graphics Lab\Code\ProjectBackup\Debug\ProjectBackup.exe
+     1>Done Building Project "E:\Courses\11th\Computer Graphics\Graphics Lab\Code\ProjectBackup\ProjectBackup\ProjectBackup.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.98
